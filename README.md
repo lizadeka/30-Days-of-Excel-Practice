@@ -8,8 +8,8 @@
 - ✅ Cell References (Relative vs Absolute)
 - ✅ Formulas vs Functions (SUM, COUNT, MIN, MAX, RANDBETWEEN)
 - ✅ Auto Fill Tricks
-- ✅ Conditional Formatting (Salary > 12000, duplicates, department filters)
-
+- ✅ Conditional Formatting
+  
 ## 📁 Folder Structure
 Each file is organized by day, with the topic covered in its name.
 
