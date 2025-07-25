@@ -1,0 +1,11 @@
+## ✅ Day 1: Excel Basics + Core Concepts
+
+Today I practiced a variety of beginner-to-intermediate Excel skills using a hands-on dataset:
+
+### 📚 Topics Covered:
+- ✅ **Data Entry & Formatting** – Entered sample employee records
+- ✅ **Excel Shortcuts** – Quick actions using keyboard keys
+- ✅ **Relative vs Absolute Cell References** – `A1` vs `$A$1` explained
+- ✅ **Formulas vs Functions** – Practiced with `SUM`, `COUNT`, `MIN`, `MAX`, `RANDBETWEEN`
+- ✅ **Auto Fill Tricks** – Dragged sequences and formulas down
+- ✅ **Conditional Formatting**
