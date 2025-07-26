@@ -9,6 +9,12 @@
 - ✅ Formulas vs Functions (SUM, COUNT, MIN, MAX, RANDBETWEEN)
 - ✅ Auto Fill Tricks
 - ✅ Conditional Formatting
+- ✅ Removing Duplicates
+- ✅ Removing Blank Rows
+- ✅ TRIM Function
+- ✅ Fixing Text Case
+- ✅ Logic Functions: IF
+- ✅ Splitting Combined Data
   
 ## 📁 Folder Structure
 Each file is organized by day, with the topic covered in its name.
