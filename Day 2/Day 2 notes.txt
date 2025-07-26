@@ -1,0 +1,26 @@
+✅ Day 2: Excel Data Cleaning & Preparation
+
+Today I focused on cleaning and preparing raw data using built-in Excel features and formulas — a crucial step before any analysis.
+🧹 Topics Practiced:
+    ✅ Removing Duplicates
+    → Used Remove Duplicates tool to clean up repeated entries
+    → Applied it on full rows and specific columns (like Email or Employee ID)
+
+    ✅ Trimming Extra Spaces
+    → Used =TRIM(A2) to remove unwanted leading/trailing spaces
+    → Ensured text values matched properly in lookups and filters
+
+    ✅ Text Casing Fixes
+    → Cleaned inconsistent names using:
+
+        =PROPER(A2) – for capitalizing each word
+
+        =UPPER() and =LOWER() – for consistent formatting across columns
+
+    ✅ Fixing Negative Stock or Sales Values
+    → Used =IF(A2<0, 0, A2) to replace invalid negative numbers with zero
+    → Helped maintain data integrity during calculations
+
+    ✅ Splitting Data into Columns
+    → Used Text to Columns for fields like “City - Postal Code” 
+    → Chose Delimited (by space)
