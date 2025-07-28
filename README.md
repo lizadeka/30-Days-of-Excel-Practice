@@ -15,6 +15,7 @@
 - ✅ Fixing Text Case
 - ✅ Logic Functions: IF
 - ✅ Splitting Combined Data
+- ✅ Data Validation
   
 ## 📁 Folder Structure
 Each file is organized by day, with the topic covered in its name.
