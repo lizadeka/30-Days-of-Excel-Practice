@@ -1,0 +1,12 @@
+## ✅ Day 4: Practise
+
+Today I focused on practising on whatever i learned till now:
+
+Data entry
+Formulas and Functions
+Conditional Formatting
+Trim function
+IF function
+Splitting combined data
+Data validation
+
